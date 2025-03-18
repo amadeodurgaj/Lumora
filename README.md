@@ -10,7 +10,6 @@ Lumora is a premium skincare e-commerce application built with React. The projec
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
-- [Usage](#usage)
 - [Notes](#notes)
 - [License](#license)
 
