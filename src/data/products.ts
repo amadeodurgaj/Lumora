@@ -1,3 +1,5 @@
+import cleanserImage from "../img/cleanser.jpeg"
+
 export const products = [
   {
     id: '1',
@@ -11,7 +13,7 @@ export const products = [
       'Niacinamide',
       'Green Tea Extract'
     ],
-    image: 'src/img/cleanser.jpeg',
+    image: cleanserImage,
     category: 'Cleanser'
   },
   {
