@@ -1,6 +1,6 @@
 # Lumora Skincare E-Commerce
 
-Lumora is a premium skincare e-commerce application built with React. The project features a responsive design with a modern UI using Tailwind CSS, efficient state management with Zustand (with persistent storage), and client-side routing via React Router. It allows users to browse featured products, view product details, and manage a shopping cart.
+Lumora is a premium skincare e-commerce application built with React. The project features a responsive design with a modern UI using Tailwind CSS, efficient state management with Zustand (with persistent storage), and client-side routing via React Router. It allows users to browse featured products and view product details.
 
 ---
 
