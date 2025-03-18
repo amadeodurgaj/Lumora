@@ -68,6 +68,7 @@ Lumora is a premium skincare e-commerce application built with React. The projec
 
 ## Project Structure
 
+```
 /src
  ├── components
  │    ├── Navbar.tsx          // Navigation bar with cart badge and mobile support
@@ -97,7 +98,7 @@ Lumora is a premium skincare e-commerce application built with React. The projec
  │    └── lipmask.png
  │
  └── App.tsx                 // Main app component handling routing with React Router
-
+```
 
 ## Notes
 
