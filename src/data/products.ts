@@ -1,4 +1,9 @@
 import cleanserImage from "../img/cleanser.jpeg"
+import darkspotImage from "../img/darkspot.png"
+import moisturizerImage from "../img/moisturizer.png"
+import serumImage from "../img/eyeserum.png"
+import tonerImage from "../img/hydratingtoner.png"
+import maskImage from "../img/lipmask.png"
 
 export const products = [
   {
@@ -28,7 +33,7 @@ export const products = [
       'Licorice Root Extract',
       'Hyaluronic Acid'
     ],
-    image: '/src/img/darkspot.png',
+    image: darkspotImage,
     category: 'Serum'
   },
   {
@@ -43,7 +48,7 @@ export const products = [
       'Squalane',
       'Ceramides'
     ],
-    image: '/src/img/moisturizer.png',
+    image: moisturizerImage,
     category: 'Moisturizer'
   },
   {
@@ -58,7 +63,7 @@ export const products = [
       'Hyaluronic Acid',
       'Vitamin E'
     ],
-    image: '/src/img/eyeserum.png',
+    image: serumImage,
     category: 'Eye Care'
   },
   {
@@ -73,7 +78,7 @@ export const products = [
       'Centella Asiatica',
       'Beta-Glucan'
     ],
-    image: '/src/img/hydratingtoner.png',
+    image: tonerImage,
     category: 'Toner'
   },
   {
@@ -88,7 +93,7 @@ export const products = [
       'Jojoba Oil',
       'Vitamin E'
     ],
-    image: '/src/img/lipmask.png',
+    image: maskImage,
     category: 'Lip Care'
   }
 ];
