@@ -11,7 +11,7 @@ export const products = [
       'Niacinamide',
       'Green Tea Extract'
     ],
-    image: '/src/img/cleanser.jpeg',
+    image: 'src/img/cleanser.jpeg',
     category: 'Cleanser'
   },
   {
